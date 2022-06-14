@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TurjaHalder
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java
+- 👀 I’m interested in python 
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python
 - 📫 How to reach me turjashp@gmail.com
 
 <!---
